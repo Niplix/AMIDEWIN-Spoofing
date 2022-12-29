@@ -2,7 +2,7 @@ cd C:\Windows\
 @echo off
 cls
 
-// %RANDOM%- <- Insert your brand or leave it blank.
+// %RANDOM%- <- Insert your brand or leave it blank
 // Example %RANDOM%-LEPROXY
 
 AMIDEWINx64.EXE /IVN %RANDOM%
